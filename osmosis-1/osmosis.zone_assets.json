@@ -6822,5 +6822,12 @@
       "osmosis_verified": true,
       "_comment": "maxBTC $maxBTC"
     }
+    {      
+      "chain_name": "osmosis",      
+      "base_denom": "factory/osmo12x44mc9m9az7mlnf5rnsqvkv3k9hc54jxdcjwc/wcarbon",      
+      "osmosis_verified": false,
+      "osmosis_unlisted": true,      
+      "_comment": "Wrapped Carbon wCARBON"
+    }
   ]
 }
